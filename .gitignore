@@ -1,0 +1,8 @@
+*
+!.gitignore
+!README.md
+!*.json
+!tilesets/COPYRIGHT
+!tilesets/*.png
+!*/
+*DONT_PUSH*
