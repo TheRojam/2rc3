@@ -3432,6 +3432,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"lautsprecher",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"lautsprecher.png: (cc0) by tabascoeye https:\/\/data.tabascoeye.de\/maptest\/rc3world\/Lautsprecher1.png"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
