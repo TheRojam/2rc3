@@ -158,6 +158,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"dezentrale_party"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -176,6 +181,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"shared-chaoszone"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
