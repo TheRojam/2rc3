@@ -222,6 +222,17 @@
          "id":16,
          "name":"website_openstreetmap",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.openstreetmap.de\/karte.html?zoom=19&lat=51.33637&lon=12.33817&layers=B000"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
