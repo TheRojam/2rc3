@@ -110,6 +110,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"dezentrale_haupt"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -140,6 +145,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/dezentrale.space"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -190,6 +200,21 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"cc0"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"The map from dezentrale HacherSpace from Leipzig first floor"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/gitlab.com\/dezentrale\/workadventure\/maps"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"dezentrale_2rC3_first_floor"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.4.2",

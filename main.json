@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"UPDATE-THIS.json"
+                 "value":"UPDATE-THIS_2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
