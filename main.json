@@ -373,6 +373,23 @@
         }, 
         {
          "draworder":"topdown",
+         "id":55,
+         "name":"badges",
+         "objects":[],
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"FkecAUj58CCRz2ogLrjKie3yd4kyfRRInvNzNyZ5mmyYbONpRn"
+                }],
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
          "objects":[],
@@ -406,7 +423,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":54,
+ "nextlayerid":56,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "properties":[
