@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/chaoszone\/main.json"
+                 "value":"world:\/\/chaoszone\/main.json#start_leipzig"
                 }],
          "type":"tilelayer",
          "visible":true,
