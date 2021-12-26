@@ -163,6 +163,12 @@
                  "id":47,
                  "name":"exit_lounge",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"world:\/\/lobby\/main.json"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":100,
